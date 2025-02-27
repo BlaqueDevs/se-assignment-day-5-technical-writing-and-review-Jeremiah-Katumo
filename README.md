@@ -5,7 +5,7 @@
 It helps the audience to relate with the project you're explaining thus avoding over explanation for beginners and under explanation for experts.
 
 ## 2. What are some strategies to tailor your content to different audience types?
-Use quick info for experts and explain more for beginners
+Use quick information for experts and explain more for beginners
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 1. Ask direct questions like their familiarity with the topic
@@ -15,10 +15,23 @@ Use quick info for experts and explain more for beginners
 5. Start with basic questions and adjust according to the feedback
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
+Content can be made accessible to those with limited technical knowledge by using visualizations in explaining the problem and its solution.
+
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
+Plain language is easier to convey information to the audience without the need of researching about terms that are hard to comprehend.
+
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
+1. Initiation SGR management system - start SGR management system
+2. Initiate youth initiative - start youth initiative
+
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
+Visuals are the best way to convey messages just at a glance. It also helps to summarise information that were to fit in pages.
+
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
+1. Bar charts are mostly used to visualize categorical columns
+2. Line charts and time series plots may help to check the trend and demands over time. THis mostly deals with numerical values.
+3. Pie charts show the proportions of categories in a circular fashion where 360 degrees represents 100% of the categories shares.
+
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 ## 10. What are some best practices for creating effective headings and subheadings?
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
