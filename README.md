@@ -33,6 +33,16 @@ Visuals are the best way to convey messages just at a glance. It also helps to s
 3. Pie charts show the proportions of categories in a circular fashion where 360 degrees represents 100% of the categories shares.
 
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
+This helps in presentation of information to the audience thus making it tidy and neat.
+
 ## 10. What are some best practices for creating effective headings and subheadings?
+Do not change the fonts but use consistent ones, try to make headings follow a uniform font.
+
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
+The heading of the project should convey the idea of what the application tries to do.
+
 ## 12. How can you succinctly convey the purpose and key features of a product?
+1. Start with a Clear Purpose (what it does and who its for)
+2. Highlight key features
+3. Emphasize the main or core benefit 
+
